@@ -1,3 +1,4 @@
 测试，中文    edited by user2
+测试，中文  edit by user1
 测试，新用户添加
 测试pull命令，新用户添加。
